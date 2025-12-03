@@ -9,7 +9,7 @@
 
 <img src="https://pbs.twimg.com/profile_images/1403139102023770114/QO8jlepm_400x400.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/delta">
+<a href="https://mac-apps-install.github.io/.github/delta">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
